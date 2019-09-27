@@ -6,4 +6,4 @@ Waste Project: https://github.com/dalton-rutledge/wasteproject
 
 I have chosen these projects because they show my growth as a coder and as a student. They also represent my strengths as a student, because for many of these projects I had not previously worked with the tools involved in implementing them. 
 
-Each project comes with a lovely README description of its own that details why I included it, what I think it shows about me, and how I think it represents my best work as a student. 
+Each project comes with a lovely description of its own - found in descritions.pdf - that details why I included it, what I think it shows about me, and how I think it represents my best work as a student. 
