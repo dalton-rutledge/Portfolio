@@ -1,15 +1,15 @@
 # Portfolio
 This is a portfolio of my best computer science projects and assignments as a student at Westminster College. The 5 assignments I have chosen (in order of most to least recent) are:
 
-K Means ++ implementation - CMPT 300 Machine Learning
+1) K Means ++ implementation - CMPT 300 Machine Learning
 
-Chat Shack (https://github.com/dalton-rutledge/ChatShack) - CMPT 352 Computer Networks
+2) Chat Shack (https://github.com/dalton-rutledge/ChatShack) - CMPT 352 Computer Networks
 
-Math Games Website (https://github.com/dalton-rutledge/ColdCutsAndMayo) - CMPT 322 Software Engineering
+3) Math Games Website (https://github.com/dalton-rutledge/ColdCutsAndMayo) - CMPT 322 Software Engineering
 
-Ray Tracing (lab) - CMPT 360 Computer Graphics
+4) Ray Tracing (lab) - CMPT 360 Computer Graphics
 
-Waste Project: (https://github.com/dalton-rutledge/wasteproject) - CMPT 307 Database Systems
+5) Waste Project: (https://github.com/dalton-rutledge/wasteproject) - CMPT 307 Database Systems
 
 
 I have chosen these projects because they show my growth as a coder and as a student. They also represent my strengths as a student, because for many of these projects I had not previously worked with the tools involved in implementing them. 
